@@ -11,7 +11,7 @@ public class trips {
 										// elemento concreto que responde a esa forma.
 		
 
-		System.out.println("la informacion sobre su nuevo viaje es  " + info.Cordoba + " en este momento");
+		System.out.println("la informacion sobre su nuevo viaje es  " + info.Cordoba);
 	}
 
 }
