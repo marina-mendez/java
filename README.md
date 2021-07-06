@@ -1,2 +1,2 @@
 # java
-pruebita java c:
+This is were all my Java code is going to be. I'm currently using arrays, loops, learning OOP (getters ans setters), and mucho more. Feel free to check it out!
